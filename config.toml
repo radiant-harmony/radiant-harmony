@@ -1,1 +1,4 @@
-
+     baseURL = "https://radiant-harmony.github.io/radiant-harmony"
+     languageCode = "en-us"
+     title = "Sriman Yoga"
+     theme = "lightbi"
